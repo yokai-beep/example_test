@@ -1,2 +1,4 @@
 color=red
 ya eblan
+ya ne eblan
+mojet eblan?
